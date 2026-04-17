@@ -1,4 +1,7 @@
 # Hex-FRVR
+Made by: Lara Haya Santiago (2024)
+
+## Description
 
 This project is a puzzle game inspired by the mechanics of [Hex FRVR](https://hex.frvr.com/).
 
