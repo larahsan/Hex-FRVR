@@ -1,13 +1,14 @@
 # Hex-FRVR
 
-## Description
-
 This project is a puzzle game inspired by the mechanics of Hex FRVR.
-The goal is to place hexagonal pieces on the board to complete lines and score points.
 
-## Demo
+<img width="1201" height="643" alt="image" src="https://github.com/user-attachments/assets/b5eaf2d4-a01c-406b-9cbe-7ab60dad2355" />
 
-👉 https://yourusername.github.io/your-repo-name
+The goal is to place the different pieces on the board to complete lines and score points.
+
+<img width="1173" height="713" alt="image" src="https://github.com/user-attachments/assets/da610709-4ba1-4dba-aea2-2700bfaa31d6" />
+
+You can try it here: [Hex FRVR](https://larahsan.github.io/Hex-FRVR/)
 
 ## Technologies Used
 
