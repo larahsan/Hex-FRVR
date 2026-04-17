@@ -1,6 +1,6 @@
 # Hex-FRVR
 
-This project is a puzzle game inspired by the mechanics of Hex FRVR.
+This project is a puzzle game inspired by the mechanics of [Hex FRVR](https://hex.frvr.com/).
 
 <img width="1201" height="643" alt="image" src="https://github.com/user-attachments/assets/b5eaf2d4-a01c-406b-9cbe-7ab60dad2355" />
 
@@ -10,12 +10,6 @@ The goal is to place the different pieces on the board to complete lines and sco
 
 You can try it here: [Hex FRVR](https://larahsan.github.io/Hex-FRVR/)
 
-## Technologies Used
-
-* HTML5
-* CSS3
-* JavaScript
-
 ## Features
 
 * Drag & drop hexagonal pieces
@@ -23,13 +17,13 @@ You can try it here: [Hex FRVR](https://larahsan.github.io/Hex-FRVR/)
 * Score tracking system
 * Responsive layout
 
-## What I Learned
+## What I learned
 
 * Managing game logic and state in JavaScript
 * Handling user interactions and events
 * Structuring a small front-end project from scratch
 
-## Possible Improvements
+## Possible improvements
 
 * Add animations and sound effects
 * Adapt to mobile
