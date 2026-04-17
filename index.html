@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Hex FRVR</title>
+</head>
+<body>
+  <nav>
+    <ul>
+        <button id="newGame">New game</button>
+        <button id="credits">Credits</button>
+    </ul>
+  </nav>
+  <span class="score" id="score"></span>
+  <div class="hexagonArea" id="hexagonArea"></div>
+  <div class="areas" id ="areas">
+    <div class="pieceAreas" id="piecesArea1"></div>
+    <div class="pieceAreas" id="piecesArea2"></div>
+    <div class="pieceAreas" id="piecesArea3"></div>
+  </div>
+  <script src="game.js"></script>
+  <script>
+    generateHexagonalGrid(); 
+    showPieces();
+    movePiece();
+  </script>
+</body>
+</html>
